@@ -1,0 +1,15 @@
+# Project Requirements
+
+## System Requirements
+- PHP >= 7.4
+- MySQL / MariaDB >= 5.7
+- Web Server (Apache/Nginx)
+
+## PHP Extensions
+- mysqli (Database connection)
+- openssl (Security/Dotenv)
+- mbstring
+- json
+
+## Dependencies (via Composer)
+- vlucas/phpdotenv (^5.6)

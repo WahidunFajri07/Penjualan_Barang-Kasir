@@ -1,0 +1,15 @@
+{
+  "roles": {
+    "admin": {
+      "label": "Admin",
+      "dashboard": "admin/index.php",
+      "permissions": ["read", "create", "update", "delete"]
+    },
+    "kasir": {
+      "label": "Kasir",
+      "dashboard": "kasir/index.php",
+      "permissions": ["read", "create"]
+    }
+  },
+  "modules": {}
+}
